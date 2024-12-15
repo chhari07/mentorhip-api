@@ -5,42 +5,250 @@
       "name": "John Doe",
       "gender": "Male",
       "categories": ["Artificial Intelligence", "Data Science"],
-      "image": "https://example.com/images/john-doe.jpg"
+      "specialty": "AI Model Development",
+      "country": "USA",
+      "mentorshipCount": 15,
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
     },
     {
       "id": 2,
       "name": "Jane Smith",
       "gender": "Female",
       "categories": ["Web Development", "Blockchain"],
-      "image": "https://example.com/images/jane-smith.jpg"
+      "specialty": "Full Stack Development",
+      "country": "Canada",
+      "mentorshipCount": 20,
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
     },
     {
       "id": 3,
       "name": "Alice Johnson",
       "gender": "Female",
       "categories": ["Machine Learning", "AI"],
-      "image": "https://example.com/images/alice-johnson.jpg"
+      "specialty": "Natural Language Processing",
+      "country": "UK",
+      "mentorshipCount": 12,
+      "image": "https://randomuser.me/api/portraits/women/3.jpg"
     },
     {
       "id": 4,
       "name": "Robert Brown",
       "gender": "Male",
       "categories": ["Cybersecurity", "Networking"],
-      "image": "https://example.com/images/robert-brown.jpg"
+      "specialty": "Network Security",
+      "country": "Australia",
+      "mentorshipCount": 18,
+      "image": "https://randomuser.me/api/portraits/men/4.jpg"
     },
     {
       "id": 5,
       "name": "Emily Davis",
       "gender": "Female",
       "categories": ["Cloud Computing", "AI"],
-      "image": "https://example.com/images/emily-davis.jpg"
+      "specialty": "Cloud Architecture",
+      "country": "India",
+      "mentorshipCount": 25,
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
     },
     {
       "id": 6,
       "name": "Michael Wilson",
       "gender": "Male",
       "categories": ["DevOps", "Machine Learning"],
-      "image": "https://example.com/images/michael-wilson.jpg"
+      "specialty": "Continuous Integration",
+      "country": "Germany",
+      "mentorshipCount": 30,
+      "image": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Green",
+      "gender": "Female",
+      "categories": ["Data Science", "Cloud Computing"],
+      "specialty": "Big Data Analytics",
+      "country": "USA",
+      "mentorshipCount": 10,
+      "image": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lucas Walker",
+      "gender": "Male",
+      "categories": ["Blockchain", "Web Development"],
+      "specialty": "Smart Contracts",
+      "country": "Canada",
+      "mentorshipCount": 22,
+      "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Harris",
+      "gender": "Female",
+      "categories": ["Cybersecurity", "AI"],
+      "specialty": "AI Cybersecurity",
+      "country": "UK",
+      "mentorshipCount": 17,
+      "image": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "James King",
+      "gender": "Male",
+      "categories": ["Machine Learning", "Data Science"],
+      "specialty": "Deep Learning",
+      "country": "Australia",
+      "mentorshipCount": 14,
+      "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Charlotte Lee",
+      "gender": "Female",
+      "categories": ["Web Development", "Blockchain"],
+      "specialty": "Frontend Development",
+      "country": "India",
+      "mentorshipCount": 20,
+      "image": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "David Walker",
+      "gender": "Male",
+      "categories": ["AI", "Machine Learning"],
+      "specialty": "AI Model Deployment",
+      "country": "USA",
+      "mentorshipCount": 19,
+      "image": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ella Scott",
+      "gender": "Female",
+      "categories": ["Cybersecurity", "Networking"],
+      "specialty": "Penetration Testing",
+      "country": "Canada",
+      "mentorshipCount": 13,
+      "image": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Adams",
+      "gender": "Male",
+      "categories": ["Web Development", "Cloud Computing"],
+      "specialty": "Web Application Architecture",
+      "country": "Germany",
+      "mentorshipCount": 30,
+      "image": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Lily White",
+      "gender": "Female",
+      "categories": ["Machine Learning", "Data Science"],
+      "specialty": "Reinforcement Learning",
+      "country": "India",
+      "mentorshipCount": 16,
+      "image": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Alexander Moore",
+      "gender": "Male",
+      "categories": ["Blockchain", "DevOps"],
+      "specialty": "Blockchain Development",
+      "country": "UK",
+      "mentorshipCount": 22,
+      "image": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Amelia Turner",
+      "gender": "Female",
+      "categories": ["Data Science", "AI"],
+      "specialty": "Predictive Analytics",
+      "country": "USA",
+      "mentorshipCount": 8,
+      "image": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ethan Garcia",
+      "gender": "Male",
+      "categories": ["Machine Learning", "Blockchain"],
+      "specialty": "Blockchain Integration",
+      "country": "Canada",
+      "mentorshipCount": 18,
+      "image": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ava Martinez",
+      "gender": "Female",
+      "categories": ["Cybersecurity", "AI"],
+      "specialty": "AI for Security",
+      "country": "Germany",
+      "mentorshipCount": 14,
+      "image": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Sebastian Lee",
+      "gender": "Male",
+      "categories": ["Data Science", "Machine Learning"],
+      "specialty": "Supervised Learning",
+      "country": "India",
+      "mentorshipCount": 22,
+      "image": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Olivia Evans",
+      "gender": "Female",
+      "categories": ["Blockchain", "Web Development"],
+      "specialty": "Cryptocurrency",
+      "country": "USA",
+      "mentorshipCount": 30,
+      "image": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "James White",
+      "gender": "Male",
+      "categories": ["DevOps", "Cloud Computing"],
+      "specialty": "Cloud Infrastructure",
+      "country": "UK",
+      "mentorshipCount": 10,
+      "image": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Harper Clark",
+      "gender": "Female",
+      "categories": ["AI", "Cybersecurity"],
+      "specialty": "AI Security Solutions",
+      "country": "Canada",
+      "mentorshipCount": 13,
+      "image": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Benjamin Young",
+      "gender": "Male",
+      "categories": ["Machine Learning", "Blockchain"],
+      "specialty": "Cryptocurrency Algorithms",
+      "country": "India",
+      "mentorshipCount": 16,
+      "image": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Isabella Rodriguez",
+      "gender": "Female",
+      "categories": ["Web Development", "AI"],
+      "specialty": "Web App AI Integration",
+      "country": "USA",
+      "mentorshipCount": 9,
+      "image": "https://randomuser.me/api/portraits/women/25.jpg"
     }
   ]
 }
